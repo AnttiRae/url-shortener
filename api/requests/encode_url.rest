@@ -1,0 +1,6 @@
+POST http://localhost:8000/api/encode/
+Content-Type: application/json
+
+{
+    "url": "https://www.google.com"
+}
